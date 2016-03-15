@@ -1,0 +1,2 @@
+# various-layoutmanager
+通过自定义LayoutManager实现改变RecyclerView的显示样式
